@@ -1,0 +1,16 @@
+{
+"id":3,
+"title":"Sony",
+"category":"camera",
+"heading":"Sony Digital Vlog Camera ZV 1 (Compact, Video Eye AF, Flip Screen, in-Built Microphone, Bluetooth Shooting Grip, 4K Vlogging Camera and Content Creation) - Black",
+"description":["ZV 1 Vlog camera bundled with 1 unit Bluetooth Shooting grip, 1 additional unit Rechargeable battery and 1 unit SD Card.;20.1 MP stacked back illuminated 1 Exmor RS CMOS sensor / DRAM, Large aperture 24-70mm 1 F1.8-2.8 ZEISS Vario-Sonnar T lens",
+"Directional 3-capsule inbuilt-mic with wind screen;Vari-angle LCD screen, for selfie shooting with confidence",
+"Beautiful and natural skin tones for everyone;4k Movie recording with Video EYE AF and real time tracking;One-push Bokeh switch;Time-lapse adds cinematic expression to the passage of time"],
+"price":"64,999",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/3/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/3/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/3/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/3/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/3/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/3/5.jpg"],
+}

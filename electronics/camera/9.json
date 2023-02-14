@@ -1,0 +1,17 @@
+{
+"id":9,
+"title":"Sony",
+"category":"camera",
+"heading":"Sony HDRCX405 9.2MP HD Handycam Camcorder with Free Carrying Case, Optical (Black)",
+"description":["30x Optical / 60x Clear Image Zoom to get closer to the action",
+"26.8mm wide angle ZEISS Lens. Minimum focus distance- approx. 1 cm (Wide), approx. 80 cm (Tele), approx. 0.40 (Wide), approx. 31.5 (Tele)",
+"Automatically creates highlight video in MP4 from multiple clips"
+],
+"price":"19,200",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/9/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/9/1.webp",
+	"https://patil-kalpesh.github.io/api/electronics/camera/9/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/9/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/9/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/9/5.jpg"],
+}

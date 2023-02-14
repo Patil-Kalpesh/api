@@ -1,0 +1,17 @@
+{
+"id":7,
+"title":"insta360",
+"category":"camera",
+"heading":"insta360 X3 Action Camera, 1/2 Sensor, 5.7K 360 Capture, Optical Zoom 3X, 72 MP 360 Photo, 4K Single Lens Mode, Black",
+"description":["72 MP 360 Photo, 360 photos just got a huge upgrade. Now capture 72 megapixel stills with more detail than ever before.",
+"The magic of 360 capture is the ability to choose the best angle after the fact. Easy AI-powered reframing tools in the Insta360 app make it easy to find the perfect, so you’ll never miss a shot again.",
+"1/2” Sensor Capture photos and videos with more detail thanks to a brand-new 1/2” sensor."
+],
+"price":"46,990",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/7/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/7/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/7/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/7/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/7/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/7/5.jpg"],
+}

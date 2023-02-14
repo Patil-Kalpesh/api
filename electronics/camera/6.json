@@ -1,0 +1,17 @@
+{
+"id":6,
+"title":"KODAK ",
+"category":"camera",
+"heading":"KODAK Mini Shot 3 Retro 4PASS 2-in-1 Instant Camera and Photo Printer (3x3) + 8 Sheets, Yellow",
+"description":["Instant Camera + Photo Printer: The Kodak Mini Shot 3 Retro is a digital camera with a built-in photo printer, so you can print your images or cancel them after you have taken them. With this instant camera, you can also print 2x3 photos directly from the gallery of your mobile device via Bluetooth. Kodak Mini Shot 3 Retro is compatible with Apple iPhone, iPad & Android devices.",
+"Low Photo Cost: Why pay more to print? Printing has never been easier with our Kodak Mini Shot 2 Retro instant print camera. Photos are even half the cost if purchased in an instant film camera bundle!",
+"Superior Photo Quality: The Kodak Mini Shot 3 Retro utilizes 4PASS technology, which allows you to print flawless photos in just a few seconds. As the photos are printed on layers of color and laminated, they are protected against fingerprints and water. Photos last over a 100 years!"
+],
+"price":"14,099",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/6/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/6/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/6/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/6/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/6/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/6/5.jpg"],
+}

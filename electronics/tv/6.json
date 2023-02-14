@@ -1,0 +1,17 @@
+{
+"id":6,
+"title":"Samsung",
+"category":"tv",
+"heading":"Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+"description":["Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz",
+"Connectivity: 2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+"Sound : 20 Watts Output | Dolby Digital Plus Smart TV Features : Personal Computer | Screen Share | Music System | Content Guide | Connect Share Movie"
+],
+"price":"13,299",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/tv/7/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/tv/6/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/6/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/6/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/6/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/6/5.jpg"],
+}

@@ -1,0 +1,16 @@
+{
+"id":5,
+"title":"Fujifilm",
+"category":"camera",
+"heading":"Fujifilm Instax Mini 9 Instant Camera (Cobalt Blue)",
+"description":["New Selfie Mirror and close-up lense attachment for perfect selfies; Produces instant credit card size photos",
+"Built-in Flash and Automatic exposure Measurement: The camera signals the recommended aperture setting with a flashing LED. This helps capture the perfect photo every time",
+"High-Key mode : Take brighter pictures with a soft look - perfect for portraits; Viewfinder-Real image finder, 0.37x, with target spot"],
+"price":"7,999",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/5/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/5/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/5/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/5/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/5/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/5/5.jpg"],
+}

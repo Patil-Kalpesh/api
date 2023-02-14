@@ -1,0 +1,16 @@
+{
+"id":2,
+"title":"TCL",
+"category":"tv",
+"heading":"TCL 100 cm (40 inches) Full HD Certified Android R Smart LED TV 40S6505 (Black)",
+"description":["Resolution: Full HD (1920 x 1080) | Refresh Rate: 60 Hertz.",
+"Connectivity: 2 HDMI Ports to connect set top box, Blu Ray players, gaming console | 1 USB Ports to connect hard drives and other USB devices ",
+"Sound : 20 Watts Output | Powerful 2 Stero Integrated Speaker Boxes with Dolby Audio"],
+"price":"17,499",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/tv/2/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/tv/2/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/2/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/2/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/2/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/tv/2/5.jpg"],
+}

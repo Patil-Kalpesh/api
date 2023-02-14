@@ -1,0 +1,17 @@
+{
+"id":10,
+"title":"Sony Alpha ",
+"category":"camera",
+"heading":"Sony Alpha ILCE 6100L 24.2 MP Mirrorless Digital SLR Camera with 16-50 mm Power Zoom Lens (APS-C Sensor,Fast Auto Focus,Real-time Eye AF,Real-time Tracking,4K Vlogging Camera & Tiltable Screen), Black",
+"description":["Real time eye AF for still + Animal Eye AF;Real time tracking",
+"World fastest 0.02 Sec AF speed with 425 phase detection and contrast points;24.2MP, EXMOR CMOS sensor with outstanding light sensitivity",
+"11 FPS continuous shooting with AF/AE;180 degree tilt able touch LCD screen"
+],
+"price":"71,499",
+"thumbnail":"https://patil-kalpesh.github.io/api/electronics/camera/10/1.jpg",
+"images":["https://patil-kalpesh.github.io/api/electronics/camera/10/1.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/10/2.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/10/3.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/10/4.jpg",
+	"https://patil-kalpesh.github.io/api/electronics/camera/10/5.jpg"],
+}
